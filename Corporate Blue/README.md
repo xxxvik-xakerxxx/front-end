@@ -1,4 +1,4 @@
 Corporate Blue
 ---
 
-<img src='/prev.png'>
+<img src='prev.png'>
