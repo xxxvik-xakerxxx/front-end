@@ -1,0 +1,26 @@
+* {
+	font-family: ;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+
+}
+/* Menu */
+#menu {
+  background: #4e414a;
+
+}
+
+#menu > ul {
+	padding: 0;
+	margin: 0;
+}
+
+#menu > ul > li {
+	display:  inline-block;
+	list-style: none;
+	margin-right:  20px;
+}
+
